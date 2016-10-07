@@ -212,11 +212,11 @@ sections:
 #     enabled : false
 navbar :
   archive :
-    enabled : true
+    enabled : false
   categories :
     enabled : true
   tags :
-    enabled : true
+    enabled : false
   github_projects :
     enabled : false
   social_links :
@@ -353,11 +353,11 @@ github_projects :
 #       name : Lowcountry Blues Club
 #       url : http://lowcountrybluesclub.blogspot.com
 external_links :
-  header : Great gh-pages-blog Sites!
+  header : 
   links :
     - link :
-      name : The Dereck
-      url: https://thedereck.github.io
+      name : 
+      url: 
 
 
 # These are the Bootstrap settings. These Bootstrap settings will control both
@@ -538,7 +538,7 @@ rss :
 #   show_comment_count : false
 disqus :
   enabled : true
-  shortname : ghpagesblog
+  shortname : ni8mr
   show_comment_count : true
 
 
