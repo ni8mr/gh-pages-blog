@@ -168,7 +168,7 @@ sections:
   brief_bio :
     enabled : true
     image :
-      enabled : true
+      enabled : false
       url : true
     content :
       enabled : true
@@ -323,12 +323,12 @@ social_links :
 #   - project :
 #     name : gh-pages-blog
 #     url : https://github.com/thedereck/gh-pages-blog
-github_projects :
-  header : 
-  projects :
-  - project :
-    name : 
-    url : 
+#github_projects :
+  #header : 
+  #projects :
+  #- project :
+    #name : 
+   # url : 
 
 
 # These are links to other websites outside of the blog that are not part of
