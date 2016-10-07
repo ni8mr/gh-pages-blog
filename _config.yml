@@ -23,12 +23,12 @@
 # url : https://thedereck.github.io
 # email : thedereck@thedereck.com
 # author : Dereck Curry
-name : gh-pages-blog
-brand : gh-pages-blog
-description : The More Or Less Official GH-Pages-Blog GitHub Page (And Blog)
-url : https://ni8mr.github.io/gh-pages-blog
-email : thedereck@thedereck.com
-author: Dereck Curry
+name : ni8mr-blog
+brand : ni8mr-blog
+description : Learning something everyday
+url : https://ni8mr.github.io/ni8mr-blog
+email : nilpaddo@gmail.com
+author: Noor Faizur Reza
 
 
 # The following is a list of files to exclude from inclusion in the
@@ -39,7 +39,7 @@ exclude : [ README.md , version.txt ]
 # Replace the number with the default number of blot posts you want on each
 # page. A value of 0 will indicate that you don't want to paginate, and all
 # blog posts will be on the index page.
-paginate : 10
+paginate : 5
 
 
 # To put a alert or notice on every page served, change the appropriate value
