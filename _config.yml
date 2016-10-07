@@ -181,7 +181,7 @@ sections:
   github_projects :
     enabled : false
   external_links :
-    enabled : true
+    enabled : false
   archive :
     enabled : false
   categories :
@@ -279,7 +279,7 @@ navbar :
 #       font_awesome_icon : icon-twitter
 #       url : https://www.twitter.com/dereckcurry
 social_links :
-  follow_name : Noor Faizur Reza for his daily updates
+  follow_name : Noor Faizur Reza 
   links :
     - link :
       enabled : true
