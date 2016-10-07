@@ -168,8 +168,8 @@ sections:
   brief_bio :
     enabled : true
     image :
-      enabled : false
-      url : false
+      enabled : true
+      url : true
     content :
       enabled : true
     social_links :
@@ -279,15 +279,15 @@ navbar :
 #       font_awesome_icon : icon-twitter
 #       url : https://www.twitter.com/dereckcurry
 social_links :
-  follow_name : Dereck Curry For Updates About gh-pages-blog
+  follow_name : Noor Faizur Reza for his daily updates
   links :
     - link :
       enabled : true
       name : GitHub
       font_awesome_icon : icon-github-alt
-      url : https://github.com/TheDereck
+      url : https://github.com/ni8mr
     - link :
-      enabled : true
+      enabled : false
       name: Google+
       font_awesome_icon : icon-google-plus
       url : https://plus.google.com/109660251296662910676?rel=author
@@ -295,12 +295,12 @@ social_links :
       enabled : true
       name : Linkedin
       font_awesome_icon : icon-linkedin
-      url : http://www.linkedin.com/in/dereckcurry
+      url : https://bd.linkedin.com/in/noor-faizur-reza-1545b393
     - link :
       enabled : true
       name : Twitter
       font_awesome_icon : icon-twitter
-      url : https://www.twitter.com/DereckCurry
+      url : https://twitter.com/Ni8mR
 
 
 # These are a list of GitHub projects that the blog owner would like to
@@ -324,11 +324,11 @@ social_links :
 #     name : gh-pages-blog
 #     url : https://github.com/thedereck/gh-pages-blog
 github_projects :
-  header : Fork Me!
+  header : 
   projects :
   - project :
-    name : gh-pages-blog
-    url : https://github.com/thedereck/gh-pages-blog
+    name : 
+    url : 
 
 
 # These are links to other websites outside of the blog that are not part of
